@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583936144595",
+    "project_id": "flash-chat-b45fd",
+    "storage_bucket": "flash-chat-b45fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583936144595:android:e3e67ae3fd6078b5f35026",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcYP2nZX-f8zmjXOu_jlvh4ysZcXHphwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583936144595:android:893857719e07c271f35026",
+        "android_client_info": {
+          "package_name": "com.example.human_data"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcYP2nZX-f8zmjXOu_jlvh4ysZcXHphwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
